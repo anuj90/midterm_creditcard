@@ -17,7 +17,7 @@ public class Main {
     	  System.out.println("Invalid card number" );
     	  
       }
-    //  fn = CheckDigit.first_num(num, 1);
+    //  fn = CheckDigit.first_num(num, size);
       int t_even = CheckDigit.sum_even(num);
       int t_odd = CheckDigit.sum_odd(num);
       
